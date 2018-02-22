@@ -8,6 +8,6 @@
   "incognito": "split",
   "chrome_url_overrides": { "newtab": "darknewtab.html" },
   "manifest_version": 2,
-  "author": "Daniel W. Lu",
+  "author": "Daniel W. Lu | Forked by Tim Beck",
   "homepage_url": "https://github.com/dandydanny/darknewtab"
 }
