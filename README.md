@@ -1,6 +1,8 @@
 # Dark New Tab
 ![image](https://github.com/dandydanny/darknewtab/blob/master/darknewtab_screenshot.png)
 A minimalistic grey new tab page for Google Chrome. No external network requests. No analytics. No tracking. No bullshit.
+FORKED FROM: https://github.com/dandydanny/darknewtab
+My additions: nothing but some common links I use
 
 ### What?
 1. A minimalistic new tab page replacement for Chrome.
